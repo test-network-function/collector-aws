@@ -6,7 +6,7 @@ This repo contains the CloudFormation Stacks for creation of
 * database
 * compute resources
 
-
+# Troubleshooting
 ## Check DB connection from inside EC2 (Amazon Linux 2023)
 
 ```bash
